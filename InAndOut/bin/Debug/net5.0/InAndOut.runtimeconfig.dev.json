@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vinta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vinta\\.nuget\\packages",
+      "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
